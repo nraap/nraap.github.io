@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nraap.github.io/koB/sitemap.koB.gz
